@@ -49,7 +49,7 @@ NOTIFICATION_ID = 'google_fit_notification'
 NOTIFICATION_TITLE = 'Google Fit Setup'
 
 # Google Fit API URL.
-API_VERSION = 'v1'
+API_VERSION = 'v2'
 API_USER_ID = 'me'
 WEIGHT_LBS = 'weight (lbs)'
 WEIGHT_KG = 'weight (kg)'
